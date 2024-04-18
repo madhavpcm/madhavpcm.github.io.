@@ -19,7 +19,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Madhav
+  author: Madhav Prabhu
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -50,7 +50,7 @@ params:
     favicon32x32: "favicon-32x32.png"
 
   label:
-    text: "ΣadhaV"
+    text: "Σadhav Prabhu"
     # icon: ./apple-touch-icon.png
     iconHeight: 35
 
