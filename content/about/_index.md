@@ -1,7 +1,8 @@
+---
+title:  About Me
+---
 
-# About Me
-
-I am a Madhav Prabhu. I am extremely passionate about computers. I am slightly introverted, like to get through situations as calmly as possible.
+I am Madhav Prabhu. I am extremely passionate about computers. Although slightly introverted, I like to get through situations as calmly as possible.
 
 ## 
 
