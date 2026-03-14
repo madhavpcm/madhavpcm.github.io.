@@ -39,66 +39,68 @@ editPost:
 
 <!-- Write your game overview here -->
 <!-- What is Thekku Island? What's the premise? -->
-Soo Thekku Island has been popping up all over my feeds. It is newly launched game by a small indie developer team based out of Kerala. There is a lot of hype going on about the game and this is my honest review about it with little to no spoilers.
+So, Thekku Island has been popping up all over my feeds. It is a newly launched game by a small indie developer team based out of Kerala. There is a lot of hype going on about the game and this is my honest review about it with little to no spoilers.
 
 I too panic bought this game just for the "home-grown" game is out vibes.
 
+`LLMs were used for minor edits and sanity checks`
+
 ## Initial Reactions
 
-The game is set in 1980s Kerala, India, where the protagonist is set out to find his missing wife. The initial reactions of opening the game, where you see the developer and publisher logos feels like the games coming from one of the Assasins Creed Games. Clean transitions, crisp sound, smooth animations. S tier work right there.
+The game is set in 1980s Kerala, India, where the protagonist is set out to find his missing wife. The initial reactions of opening the game, where you see the developer and publisher logos feels like the game's coming from one of the Assassin's Creed games. Clean transitions, crisp sound, smooth animations. S tier work right there.
 
 
 ![intro](./intro.png)
 
-Then when we land on the main menu, the game presents you with a really nice scene where it sets a spooky precedent with a soundtrack similar to the ones you find in a typical malayalam yakshi movie. 
+Then when we land on the main menu, the game presents you with a really nice scene where it sets a spooky precedent with a soundtrack similar to the ones you find in a typical Malayalam Yakshi movie.
 
 
 ### Gameplay
 
 <!-- Write about the gameplay mechanics -->
 <!-- What are the core gameplay loops? How does it play? -->
-The gameplay is very basic. It features a First Person View and there is minimal real world interaction. We start off in our house, where it well decorated to show off a middle class malayali house from the 80s. Radio, TV, Pooja room, study etc all fits in well. The radio plays a soothing music when toggled, kind of reminds me of Akashavani, but yea nostalgic indeed. 
+The gameplay is very basic. It features a First Person View and there is minimal real world interaction. We start off in our house, where it is well decorated to show off a middle class Malayali house from the 80s. Radio, TV, Pooja room, study etc all fits in well. The radio plays soothing music when toggled, kind of reminds me of Akashavani FM, but yeah, nostalgic indeed.
 
 Once we get out of the house we are shown an impressive cutscene, and this is literally the peak of the game in my opinion.
 If you think that you would be able to hang out in that cutscene place then you would be disappointed.
 
 ![good](./good.png)
 
-We are directed to an island by some stranger who puts a set of coordinates at our doorstep, pretty weird if you would ask me. Once we are on the island, we can explore the island while the sun is setting in the horizon with a mild shower hitting the soil. It is kind of annoying how slow we move in the game, and if we start sprinting, we get tired really fast. Like barely 5 steps sprinting and suddenly theres an obnoxiously loud and irritating panting sound. This is probably because the games' map is very small.
+We are directed to an island by some stranger who puts a set of coordinates at our doorstep, pretty weird if you would ask me. Once we are on the island, we can explore the island while the sun is setting in the horizon with a mild shower hitting the soil. It is kind of annoying how slow we move in the game, and if we start sprinting, we get tired really fast. Like barely 5 steps sprinting and suddenly there's an obnoxiously loud and irritating panting sound. This is probably because the game's map is very small.
 
 ![pier](./pier.png)
 ![horizon](./horizon.png)
 
-On exploration, you will start finding these notes, which are like clues to progress throughout. The player has to use these clues to figure out how to open certain doors. On the island, there is a mansion located at the center. As you progress through the game, you would end up waking up in the night where the horror show begins.
+On exploration, you will start finding these notes, which are like clues to progress throughout. The player has to use these clues to figure out how to open certain doors. On the island, there is a mansion located at the center. As you progress through the game, you would end up waking up in the night where the horror show begins inside the mansion.
 
 ![notes](./note.png)
 
-Most of the games lore notes are in Malayalam, subtitles/translations are provided and shouldn't be a problem apart from a set of scrapings in the wall. Those are not blockers so Ig non malayali players wont have any issues. As for the jump scares, pretty mid to be honest, it did caught me once or twice but nothing outstanding. Once you are progressing inside the mansion, you would only have one or two points where your game gets saved.
+Most of the game's lore notes are in Malayalam, subtitles/translations are provided and shouldn't be a problem apart from a set of scrapings in the wall. Those are not blockers so I guess non-Malayali players won't have any issues. As for the jump scares, pretty mid to be honest, it did catch me once or twice but nothing outstanding. Once you are progressing inside the mansion, you would only have one or two points where your game gets saved.
 ![mansion](./mansion.png)
 
 There is nothing major worth mentioning in the gameplay, just roam around, find notes and progress. The time required to complete the whole game is only 1-1.5 hours.
 
-The game doesn't properly support controllers, the initial release didnt support at all, while the subsequent ones doesn't show button hints. The settings menu is very low effort and looks like its made with HTML. 
+The game doesn't properly support controllers, the initial release didn't support at all, while the subsequent ones don't show button hints. The settings menu is very low effort and looks like it's made with HTML.
 
 <!-- Write about visual style and audio -->
 <!-- Art direction, music, sound effects -->
 ### Visuals
 
-The graphics displayed in the cutscenes and initial parts of the game are decent, however as you progress, you would start seeing consistency issues here and there. There are low quality props and textures which you would find in 90s era goldsrc games. 
+The graphics displayed in the cutscenes and initial parts of the game are decent, however as you progress, you would start seeing consistency issues here and there. There are low-quality props and textures which you would find in 90s-era GoldSrc games.
 
 ![bad](./bad.png)
 ![bad1](./bad1.png)
 
-The quality of the ending cutscene is pretty bad imo and was a huge let down for me. The game goes from an impressive looking main menu scene to an decent 2D scene to a really good looking agriculture sunset blazing scene to very mid and low effort ending scene. I believe some consistency should have been maintained here.
+The quality of the ending cutscene is pretty bad, IMO, and was a huge let down for me. The game goes from an impressive-looking main menu scene to a decent 2D scene to a really good-looking agricultural sunset-blazing scene to a very mid and low-effort ending scene. I believe some consistency should have been maintained here.
 
-The fires in the game is made with Paper textures, even 20 year old games have implemented fires better. Considering this was made with Unity, there should have been some community effect or the other which could have been used.
+The fires in the game are made with paper textures, even 20-year-old games have implemented fires better. Considering this was made with Unity, there should have been some community effect or another which could have been used.
 
-The FPS takes a hit due to lot of fog I believe. Overall looks very rushed
+The FPS takes a hit due to a lot of fog, I believe. Overall it looks very rushed.
 
 ### Sounds
-The biggest hype around this game is the audio. I didn't like most of the sounds during the core part of the game. The background music is too noticeable when it repeats, panting sound kills my soul, sound from the fire is too loud. The audio balance and mixing is not done well. The random Yakshi taunts are also "too professionally recorded" I'd say, doesnt feel very natural to the ambience.
+The biggest hype around this game is the audio. I didn't like most of the sounds during the core part of the game. The background music is too noticeable when it repeats, panting sound kills my soul, sound from the fire is too loud. The audio balance and mixing are not done well. The random Yakshi taunts are also "too professionally recorded," I'd say, doesn't feel very natural to the ambience.
 
-When you move around rainy areas, the sound of the rain feels like its raining cats and dogs but when you get back just 2 steps inside, theres like literally no rain. 
+When you move around rainy areas, the sound of the rain feels like it's raining cats and dogs, but when you get back just 2 steps inside, there's literally no rain.
 
 The scary music is doing its job during important phases but nothing that matches the hype.
 
@@ -106,22 +108,21 @@ Overall very mid.
 
 ### Story
 
-The story is a typical Yakshi exorcising katha and I dont have anything else to say without spoilers. Although idk how a random stranger gave us coordinates of the potential location of our wife and vanished. The ending sure does leave room for a potential sequel or DLC, hoping that there is some light shed on the stranger.
+The story is a typical Yakshi exorcism katha and I don't have anything else to say without spoilers. Although, I don't know how a random stranger gave us coordinates of the potential location of our wife and vanished. The ending sure does leave room for a potential sequel or DLC, hoping that there is some light shed on the stranger.
 
 ### Pros
 - Kerala Vibes in a game 
 
 ### Cons
 - Short game
-- 340 Rs is too much for 1-1.5h game
-- No GNU/Linux support (not even with Proton)
+- 340 Rs is too much for a 1-1.5h game
+- No GNU/Linux support (not even with Proton), Deck gamers have to wait for support
 - Controller Support isn't good
-- Hype
 
 
 ### Verdict
 
-Overall the game doesn't feel fully polished and has consistency gaps here and there. Given the short gamespan, the developers could have taken few more months to finish the game and release it. As with most Steam Game Reviews, I'll use a copypasta to convey my verdict. I have also given consideration to the newly emerging game development scene in Kerala so hope this helps. I'm still attributing a token of hardwork the Developers have done for the work.
+Overall the game doesn't feel fully polished and has consistency gaps here and there. Given the short game span, the developers could have taken a few more months to fully finish the game and release it. As with most Steam game reviews, I'll use a copypasta to convey my verdict. I have also given consideration to the newly emerging game development scene in Kerala. I'm still attributing a token of appreciation for the hard work put in by the Developers.
 
 ```
 --{ Graphics }---
@@ -218,8 +219,8 @@ Overall the game doesn't feel fully polished and has consistency gaps here and t
 ☐ ARK: Survival Evolved
 ☐ The game itself is a big terrarium for bugs
 
-Overall 6/10
 ```
+Overall: 6/10
 
 
 
