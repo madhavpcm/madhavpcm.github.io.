@@ -94,8 +94,9 @@ The graphics displayed in the cutscenes and initial parts of the game are decent
 The quality of the ending cutscene is pretty bad, IMO, and was a huge let down for me. The game goes from an impressive-looking main menu scene to a decent 2D scene to a really good-looking agricultural sunset-blazing scene to a very mid and low-effort ending scene. I believe some consistency should have been maintained here.
 
 The fires in the game are made with paper textures, even 20-year-old games have implemented fires better. Considering this was made with Unity, there should have been some community effect or another which could have been used.
+![fire](./fire.png)
 
-The FPS takes a hit due to a lot of fog, I believe. Overall it looks very rushed.
+The FPS also takes a hit due to fog I believe. Overall it looks very rushed and not complete.
 
 ### Sounds
 The biggest hype around this game is the audio. I didn't like most of the sounds during the core part of the game. The background music is too noticeable when it repeats, panting sound kills my soul, sound from the fire is too loud. The audio balance and mixing are not done well. The random Yakshi taunts are also "too professionally recorded," I'd say, doesn't feel very natural to the ambience.
@@ -221,8 +222,3 @@ Overall the game doesn't feel fully polished and has consistency gaps here and t
 
 ```
 Overall: 6/10
-
-
-
-
-
