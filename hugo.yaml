@@ -1,4 +1,4 @@
-baseURL: "https://madhav.madhuvans.in/"
+baseURL: "https://localhost:1313/"
 title: Madhav's Website 
 paginate: 5
 theme: PaperMod
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-XXXXXXXXXX
 
 minify:
   disableXML: true
@@ -41,6 +41,15 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+  Social:
+    twitter: ""
+    facebook_admin: ""
+    github: "https://github.com/madhavpcm"
+    matrix: "https://matrix.to/#/@kawagucci:matrix.org"
+    telegram: "https://t.me/kawa_gucci"
+    steam: "https://steamcommunity.com/id/kawaGG/"
+    linkedin: "https://www.linkedin.com/in/c-m-madhav-prabhu-8184841b8/"
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -113,7 +122,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    limit: 10 # refer: https://fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
