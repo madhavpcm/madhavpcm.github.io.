@@ -34,9 +34,7 @@ opportunities in system design, driver programming, native applications.
 **SAP Labs India** (May 2023 – July 2023)
 
 - Worked on web development with ReactJS, OData and got an overview of various technologies used by the company.
-- Helped test a product during its deployment phase
-
-
+- Helped test a product during its rollout phase
 
 **Student Administrator**
 
